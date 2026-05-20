@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi, I'm Josef 👋
 
-<!--
-**JosefM722/JosefM722** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a web development student at Nackademin currently looking for a LIA internship within frontend, backend or fullstack development.
 
-Here are some ideas to get you started:
+## Tech Stack
+- JavaScript
+- React
+- Node.js
+- Express.js
+- MongoDB
+- Mongoose
+- Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured Projects
+- PokemonLive
+- Productivity Assistant Application
+- Motify
+- Webshop Backend API
+
+## Currently Learning
+- Fullstack development
+- Backend APIs
+- Modern JavaScript workflows
+- Team collaboration with Git/GitHub
+
+## Contact
+LinkedIn:
+https://www.linkedin.com/in/josef-mansourati-75131a3a5/
+
+GitHub:
+https://github.com/JosefM722
