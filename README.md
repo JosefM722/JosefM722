@@ -1,6 +1,6 @@
 # Hi, I'm Josef 👋
 
-I'm a web development student at Nackademin currently looking for a LIA internship within frontend, backend or fullstack development.
+I'm a web developer studying at Nackademin and currently looking for a LIA internship within frontend, backend or fullstack development.
 
 ## Tech Stack
 - JavaScript
