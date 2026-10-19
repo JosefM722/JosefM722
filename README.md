@@ -4,6 +4,7 @@ I'm a web developer studying at Nackademin and currently looking for a LIA inter
 
 ## Tech Stack
 - JavaScript
+- TypeScript
 - React
 - Node.js
 - Express.js
@@ -12,10 +13,11 @@ I'm a web developer studying at Nackademin and currently looking for a LIA inter
 - Git & GitHub
 
 ## Featured Projects
-- PokemonLive
-- Productivity Assistant Application
-- Motify
-- Webshop Backend API
+- [Min Todo App](https://github.com/JosefM722/min-todo-app) – TypeScript, React, CSS
+- [jobbportal](https://github.com/JosefM722/jobbportal) – JavaScript, CSS, HTML
+- [PokemonLive](https://github.com/JosefM722/PokemonLive) – JavaScript, CSS, HTML
+- [Productivity-Assistant-Application](https://github.com/JosefM722/Productivity-Assistant-Application) – JavaScript, CSS, HTML
+- [portfolio](https://github.com/JosefM722/portfolio) – JavaScript
 
 ## Currently Learning
 - Fullstack development
@@ -24,8 +26,4 @@ I'm a web developer studying at Nackademin and currently looking for a LIA inter
 - Team collaboration with Git/GitHub
 
 ## Contact
-LinkedIn:
-https://www.linkedin.com/in/josef-mansourati-75131a3a5/
-
-GitHub:
-https://github.com/JosefM722
+LinkedIn: https://www.linkedin.com/in/josef-mansourati-75131a3a5/
